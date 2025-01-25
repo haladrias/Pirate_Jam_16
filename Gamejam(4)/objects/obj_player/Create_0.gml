@@ -1,0 +1,11 @@
+my_health = 6 //player health
+sniping = false
+dir = "up"
+dirs = 2
+desired_angle = image_angle
+alarm[2] = 240
+global.ric_level = 0
+global.possible_ricochets = 0
+global.turnspeed = 0
+var bullet = instance_create_layer(x+64,y,"Attack",obj_p_bullet) //creates a bullet relative to the player and right infront on Attack layer
+bullet.ricochet = true //this bullet can ricochet

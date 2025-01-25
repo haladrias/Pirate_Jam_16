@@ -1,0 +1,1 @@
+oid = obj_enemy_shielder

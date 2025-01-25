@@ -1,0 +1,1 @@
+draw_text_ext_transformed_color(x,y,"Lives Remaining: " + string(my_lives),0,200,3,3,0,culur,culur,culur,culur,1)//Gets kill count from all enemies killed

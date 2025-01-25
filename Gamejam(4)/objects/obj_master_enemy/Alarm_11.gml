@@ -1,0 +1,1 @@
+invulnerable = false//ends invulnerability

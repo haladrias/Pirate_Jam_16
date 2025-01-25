@@ -1,0 +1,1 @@
+instance_destroy(self)//destroys bullets when they leave the rooom
